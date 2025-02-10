@@ -9,3 +9,7 @@ Just messing with headers here bruh
 ``` javascript
 var myVar = "Hello, Cats!";
 ```
+
+- [x] Be a Cat
+- [ ] Meow meow
+- [ ] sleep
